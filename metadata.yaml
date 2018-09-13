@@ -1,0 +1,34 @@
+_repo: Psychotennis-Anyone_51232
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stone, David
+    aliases:
+    - Stone
+    - Stone, D.
+    gutenberg_agent_id: '34066'
+    url: http://www.gutenberg.org/2009/agents/34066
+creator:
+  author:
+    agent_name: Williams, Lloyd
+    gutenberg_agent_id: '46317'
+    url: http://www.gutenberg.org/2009/agents/46317
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Sports stories'
+- GITenberg
+title: Psychotennis, Anyone?
+url: http://www.gutenberg.org/ebooks/51232
